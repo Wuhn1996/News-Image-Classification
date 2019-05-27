@@ -7,7 +7,17 @@ There are several popular neural network model for computer vision applications 
 
 Several key arguments have to be taken care of is data_dir and cuda, data_dir identify the folder where datasets and annotation files store. Argument cuda identify if you want to accelerate the training precess using gpu computation units. Some analysis and evaluation plots are listed below.
 ### ROC curve for Protest
-![]()
+![](https://github.com/Wuhn1996/News-Image-Classification/blob/master/pic/protest.png)
 ### Scatter plot for violence
-
+![](https://github.com/Wuhn1996/News-Image-Classification/blob/master/pic/violence.png)
 ### ROC curve for the rest labels
+![](https://github.com/Wuhn1996/News-Image-Classification/blob/master/pic/children.png)
+![](https://github.com/Wuhn1996/News-Image-Classification/blob/master/pic/fire.png)
+![](https://github.com/Wuhn1996/News-Image-Classification/blob/master/pic/flag.png)
+![](https://github.com/Wuhn1996/News-Image-Classification/blob/master/pic/night.png)
+![](https://github.com/Wuhn1996/News-Image-Classification/blob/master/pic/group_20.png)
+![](https://github.com/Wuhn1996/News-Image-Classification/blob/master/pic/group_100.png)
+![](https://github.com/Wuhn1996/News-Image-Classification/blob/master/pic/photo.png)
+![](https://github.com/Wuhn1996/News-Image-Classification/blob/master/pic/police.png)
+![](https://github.com/Wuhn1996/News-Image-Classification/blob/master/pic/shouting.png)
+![](https://github.com/Wuhn1996/News-Image-Classification/blob/master/pic/sign.png)
